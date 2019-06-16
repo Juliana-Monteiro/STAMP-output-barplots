@@ -1,0 +1,151 @@
+level1,level2,level3,p-values,p-values (corrected),Effect size,mean,SD,Mat
+Carbohydrates,Central carbohydrate metabolism,Ethylmalonyl-CoA_pathway_of_C2_assimilation,9.87E-07,3.44E-05,0.685369817,0.072559987,0.007366346,Blister
+Carbohydrates,CO2 fixation,"CO2_uptake,_carboxysome",6.42E-06,0.000125814,0.63871459,0.020498151,0.015166047,Blister
+Carbohydrates,Di- and oligosaccharides,Beta-Glucoside_Metabolism,3.02E-07,1.78E-05,0.711565345,0.035573188,0.013981002,Blister
+Carbohydrates,Di- and oligosaccharides,Fructooligosaccharides(FOS)_and_Raffinose_Utilization,2.38E-07,1.60E-05,0.716576332,0.004199564,0.004628767,Blister
+Carbohydrates,Di- and oligosaccharides,Trehalose_Biosynthesis,1.82E-06,4.76E-05,0.670865033,0.20554592,0.014826868,Blister
+Carbohydrates,Monosaccharides,D-Galacturonate_and_D-Glucuronate_Utilization,7.82E-06,0.00014157,0.633369927,0.143445231,0.024654192,Blister
+Carbohydrates,Monosaccharides,D-ribose_utilization,3.66E-05,0.000410074,0.588730187,0.18366128,0.025609295,Blister
+Carbohydrates,Monosaccharides,L-fucose_utilization,2.82E-08,2.95E-06,0.757534471,0.028150489,0.009526696,Blister
+Carbohydrates,Monosaccharides,L-rhamnose_utilization,2.18E-05,0.000280393,0.604403562,0.124410849,0.026093106,Blister
+Carbohydrates,Organic acids,Glycerate_metabolism,3.38E-06,7.77E-05,0.655429103,0.021226677,0.0098127,Blister
+Carbohydrates,Polysaccharides,Glycogen_metabolism,4.38E-05,0.000452524,0.583201247,0.326451853,0.070912075,Blister
+Carbohydrates,Sugar alcohols,Inositol_catabolism,1.70E-06,4.58E-05,0.672461619,0.077256573,0.013757664,Blister
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Coenzyme F420,Coenzyme_F420_synthesis,2.10E-05,0.000274527,0.605432328,0,0,Blister
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Quinone cofactors,Menaquinone_Biosynthesis_via_Futalosine_--_gjo,4.23E-05,0.000447223,0.58426049,0.014842264,0.007632583,Blister
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Tetrapyrroles,Bilin_Biosynthesis,8.77E-06,0.000152783,0.630256472,0,0,Blister
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Tetrapyrroles,Chlorophyll_Biosynthesis,3.05E-05,0.00036284,0.594337889,0.257100953,0.052007053,Blister
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Tetrapyrroles,Chlorophyll_Degradation,4.19E-06,9.18E-05,0.649922212,0,0,Blister
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Tetrapyrroles,Coenzyme_B12_biosynthesis,3.94E-05,0.000430572,0.586500649,0.256382816,0.020678917,Blister
+Nitrogen Metabolism,Nitrate and nitrite ammonification,Nitrate_and_nitrite_ammonification,1.08E-07,8.43E-06,0.732600956,0.032936922,0.011867222,Blister
+Nitrogen Metabolism,Nitrogen fixation,Nitrogen_fixation,5.16E-05,0.000505834,0.578025024,0.038248789,0.013717708,Blister
+Photosynthesis,Electron transport and photophosphorylation,Photosystem_II,3.99E-07,1.98E-05,0.705640833,0.001322946,0.002320615,Blister
+Photosynthesis,Light-harvesting complexes,Phycobilisome,2.09E-08,2.46E-06,0.762718286,0.000528899,0.001182654,Blister
+Respiration,ATP synthases,V-Type_ATP_synthase,1.47E-06,4.46E-05,0.67600733,0.061553521,0.008554069,Blister
+Respiration,Biogenesis of c-type cytochromes,Biogenesis_of_c-type_cytochromes,5.40E-07,2.21E-05,0.699000207,0.280657438,0.023766467,Blister
+Respiration,Cytochrome B6-F complex,Cytochrome_B6-F_complex,5.86E-12,1.84E-09,0.868862581,0.002877582,0.001519654,Blister
+Respiration,Sodium Ion-Coupled Energetics,Na+_translocating_decarboxylases_and_related_biotin-dependent_enzymes,1.02E-05,0.000171979,0.625984445,0.013396872,0.006346161,Blister
+Respiration,Soluble cytochromes and functionally related electron carriers,Soluble_cytochromes_and_functionally_related_electron_carriers,5.02E-07,2.25E-05,0.700620942,0.32811952,0.031653229,Blister
+Sulfur Metabolism,Inorganic sulfur assimilation,Inorganic_Sulfur_Assimilation,1.36E-05,0.000212588,0.618091811,0.43944348,0.04163176,Blister
+Sulfur Metabolism,Organic sulfur assimilation,DMSP_breakdown,5.79E-05,0.000544848,0.574369313,0.007125524,0.002186007,Blister
+Sulfur Metabolism,Sulfate reduction-associated complexes,Sulfate_reduction-associated_complexes,1.32E-08,1.77E-06,0.770606293,0.002747269,0.004061864,Blister
+Carbohydrates,Central carbohydrate metabolism,Ethylmalonyl-CoA_pathway_of_C2_assimilation,9.87E-07,3.44E-05,0.685369817,0.083237885,0.015996548,Flocculent
+Carbohydrates,CO2 fixation,"CO2_uptake,_carboxysome",6.42E-06,0.000125814,0.63871459,0.035976782,0.014007545,Flocculent
+Carbohydrates,Di- and oligosaccharides,Beta-Glucoside_Metabolism,3.02E-07,1.78E-05,0.711565345,0.047881254,0.008716666,Flocculent
+Carbohydrates,Di- and oligosaccharides,Fructooligosaccharides(FOS)_and_Raffinose_Utilization,2.38E-07,1.60E-05,0.716576332,0.01426495,0.002972014,Flocculent
+Carbohydrates,Di- and oligosaccharides,Trehalose_Biosynthesis,1.82E-06,4.76E-05,0.670865033,0.21257012,0.027038185,Flocculent
+Carbohydrates,Monosaccharides,D-Galacturonate_and_D-Glucuronate_Utilization,7.82E-06,0.00014157,0.633369927,0.15209617,0.027689593,Flocculent
+Carbohydrates,Monosaccharides,D-ribose_utilization,3.66E-05,0.000410074,0.588730187,0.267738392,0.037427516,Flocculent
+Carbohydrates,Monosaccharides,L-fucose_utilization,2.82E-08,2.95E-06,0.757534471,0.023008495,0.00529798,Flocculent
+Carbohydrates,Monosaccharides,L-rhamnose_utilization,2.18E-05,0.000280393,0.604403562,0.1009192,0.021038765,Flocculent
+Carbohydrates,Organic acids,Glycerate_metabolism,3.38E-06,7.77E-05,0.655429103,0.034819347,0.013094007,Flocculent
+Carbohydrates,Polysaccharides,Glycogen_metabolism,4.38E-05,0.000452524,0.583201247,0.422658347,0.095797355,Flocculent
+Carbohydrates,Sugar alcohols,Inositol_catabolism,1.70E-06,4.58E-05,0.672461619,0.081371628,0.013626281,Flocculent
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Coenzyme F420,Coenzyme_F420_synthesis,2.10E-05,0.000274527,0.605432328,0.001764262,0.002044282,Flocculent
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Quinone cofactors,Menaquinone_Biosynthesis_via_Futalosine_--_gjo,4.23E-05,0.000447223,0.58426049,0.01907042,0.005279399,Flocculent
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Tetrapyrroles,Bilin_Biosynthesis,8.77E-06,0.000152783,0.630256472,0.001572733,0.001726721,Flocculent
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Tetrapyrroles,Chlorophyll_Biosynthesis,3.05E-05,0.00036284,0.594337889,0.295645363,0.053847188,Flocculent
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Tetrapyrroles,Chlorophyll_Degradation,4.19E-06,9.18E-05,0.649922212,0.001005283,0.001680721,Flocculent
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Tetrapyrroles,Coenzyme_B12_biosynthesis,3.94E-05,0.000430572,0.586500649,0.33626289,0.064299643,Flocculent
+Nitrogen Metabolism,Nitrate and nitrite ammonification,Nitrate_and_nitrite_ammonification,1.08E-07,8.43E-06,0.732600956,0.019103868,0.005047719,Flocculent
+Nitrogen Metabolism,Nitrogen fixation,Nitrogen_fixation,5.16E-05,0.000505834,0.578025024,0.07161525,0.019290048,Flocculent
+Photosynthesis,Electron transport and photophosphorylation,Photosystem_II,3.99E-07,1.98E-05,0.705640833,0.01368412,0.010769805,Flocculent
+Photosynthesis,Light-harvesting complexes,Phycobilisome,2.09E-08,2.46E-06,0.762718286,0.014363296,0.014356782,Flocculent
+Respiration,ATP synthases,V-Type_ATP_synthase,1.47E-06,4.46E-05,0.67600733,0.073111566,0.01576329,Flocculent
+Respiration,Biogenesis of c-type cytochromes,Biogenesis_of_c-type_cytochromes,5.40E-07,2.21E-05,0.699000207,0.240047115,0.029260583,Flocculent
+Respiration,Cytochrome B6-F complex,Cytochrome_B6-F_complex,5.86E-12,1.84E-09,0.868862581,0.007207242,0.00589121,Flocculent
+Respiration,Sodium Ion-Coupled Energetics,Na+_translocating_decarboxylases_and_related_biotin-dependent_enzymes,1.02E-05,0.000171979,0.625984445,0.029205791,0.005527431,Flocculent
+Respiration,Soluble cytochromes and functionally related electron carriers,Soluble_cytochromes_and_functionally_related_electron_carriers,5.02E-07,2.25E-05,0.700620942,0.355565789,0.044892524,Flocculent
+Sulfur Metabolism,Inorganic sulfur assimilation,Inorganic_Sulfur_Assimilation,1.36E-05,0.000212588,0.618091811,0.419535047,0.058881745,Flocculent
+Sulfur Metabolism,Organic sulfur assimilation,DMSP_breakdown,5.79E-05,0.000544848,0.574369313,0.008768685,0.00386109,Flocculent
+Sulfur Metabolism,Sulfate reduction-associated complexes,Sulfate_reduction-associated_complexes,1.32E-08,1.77E-06,0.770606293,0.002346509,0.003085866,Flocculent
+Carbohydrates,Central carbohydrate metabolism,Ethylmalonyl-CoA_pathway_of_C2_assimilation,9.87E-07,3.44E-05,0.685369817,0.104170079,0.01216377,Pustular
+Carbohydrates,CO2 fixation,"CO2_uptake,_carboxysome",6.42E-06,0.000125814,0.63871459,0.099420839,0.044301386,Pustular
+Carbohydrates,Di- and oligosaccharides,Beta-Glucoside_Metabolism,3.02E-07,1.78E-05,0.711565345,0.010449603,0.004016961,Pustular
+Carbohydrates,Di- and oligosaccharides,Fructooligosaccharides(FOS)_and_Raffinose_Utilization,2.38E-07,1.60E-05,0.716576332,0.009620251,0.008699167,Pustular
+Carbohydrates,Di- and oligosaccharides,Trehalose_Biosynthesis,1.82E-06,4.76E-05,0.670865033,0.147684378,0.018624044,Pustular
+Carbohydrates,Monosaccharides,D-Galacturonate_and_D-Glucuronate_Utilization,7.82E-06,0.00014157,0.633369927,0.092870704,0.02487666,Pustular
+Carbohydrates,Monosaccharides,D-ribose_utilization,3.66E-05,0.000410074,0.588730187,0.168313541,0.039749725,Pustular
+Carbohydrates,Monosaccharides,L-fucose_utilization,2.82E-08,2.95E-06,0.757534471,0.007798549,0.004914872,Pustular
+Carbohydrates,Monosaccharides,L-rhamnose_utilization,2.18E-05,0.000280393,0.604403562,0.075139813,0.024045838,Pustular
+Carbohydrates,Organic acids,Glycerate_metabolism,3.38E-06,7.77E-05,0.655429103,0.007026072,0.004242558,Pustular
+Carbohydrates,Polysaccharides,Glycogen_metabolism,4.38E-05,0.000452524,0.583201247,0.263611749,0.040630143,Pustular
+Carbohydrates,Sugar alcohols,Inositol_catabolism,1.70E-06,4.58E-05,0.672461619,0.052833029,0.010853348,Pustular
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Coenzyme F420,Coenzyme_F420_synthesis,2.10E-05,0.000274527,0.605432328,0.006901125,0.005449593,Pustular
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Quinone cofactors,Menaquinone_Biosynthesis_via_Futalosine_--_gjo,4.23E-05,0.000447223,0.58426049,0.003416181,0.003078189,Pustular
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Tetrapyrroles,Bilin_Biosynthesis,8.77E-06,0.000152783,0.630256472,0.004968105,0.003355983,Pustular
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Tetrapyrroles,Chlorophyll_Biosynthesis,3.05E-05,0.00036284,0.594337889,0.462847688,0.074695849,Pustular
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Tetrapyrroles,Chlorophyll_Degradation,4.19E-06,9.18E-05,0.649922212,0.000650145,0.000966474,Pustular
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Tetrapyrroles,Coenzyme_B12_biosynthesis,3.94E-05,0.000430572,0.586500649,0.44486363,0.095520467,Pustular
+Nitrogen Metabolism,Nitrate and nitrite ammonification,Nitrate_and_nitrite_ammonification,1.08E-07,8.43E-06,0.732600956,0.089186165,0.029940802,Pustular
+Nitrogen Metabolism,Nitrogen fixation,Nitrogen_fixation,5.16E-05,0.000505834,0.578025024,0.097223222,0.030689839,Pustular
+Photosynthesis,Electron transport and photophosphorylation,Photosystem_II,3.99E-07,1.98E-05,0.705640833,0.039199598,0.010719145,Pustular
+Photosynthesis,Light-harvesting complexes,Phycobilisome,2.09E-08,2.46E-06,0.762718286,0.041527984,0.014807015,Pustular
+Respiration,ATP synthases,V-Type_ATP_synthase,1.47E-06,4.46E-05,0.67600733,0.034740642,0.012018146,Pustular
+Respiration,Biogenesis of c-type cytochromes,Biogenesis_of_c-type_cytochromes,5.40E-07,2.21E-05,0.699000207,0.265479293,0.031084304,Pustular
+Respiration,Cytochrome B6-F complex,Cytochrome_B6-F_complex,5.86E-12,1.84E-09,0.868862581,0.013508646,0.004379625,Pustular
+Respiration,Sodium Ion-Coupled Energetics,Na+_translocating_decarboxylases_and_related_biotin-dependent_enzymes,1.02E-05,0.000171979,0.625984445,0.012808121,0.004788969,Pustular
+Respiration,Soluble cytochromes and functionally related electron carriers,Soluble_cytochromes_and_functionally_related_electron_carriers,5.02E-07,2.25E-05,0.700620942,0.460173693,0.065016736,Pustular
+Sulfur Metabolism,Inorganic sulfur assimilation,Inorganic_Sulfur_Assimilation,1.36E-05,0.000212588,0.618091811,0.352350101,0.047655649,Pustular
+Sulfur Metabolism,Organic sulfur assimilation,DMSP_breakdown,5.79E-05,0.000544848,0.574369313,0.010611973,0.001653774,Pustular
+Sulfur Metabolism,Sulfate reduction-associated complexes,Sulfate_reduction-associated_complexes,1.32E-08,1.77E-06,0.770606293,0.0046312,0.005863918,Pustular
+Carbohydrates,Central carbohydrate metabolism,Ethylmalonyl-CoA_pathway_of_C2_assimilation,9.87E-07,3.44E-05,0.685369817,0.066411934,0.000794145,Non-lithifying cohesive
+Carbohydrates,CO2 fixation,"CO2_uptake,_carboxysome",6.42E-06,0.000125814,0.63871459,0.130209348,0.015941254,Non-lithifying cohesive
+Carbohydrates,Di- and oligosaccharides,Beta-Glucoside_Metabolism,3.02E-07,1.78E-05,0.711565345,0.018359532,0.004462861,Non-lithifying cohesive
+Carbohydrates,Di- and oligosaccharides,Fructooligosaccharides(FOS)_and_Raffinose_Utilization,2.38E-07,1.60E-05,0.716576332,0.007516701,0.001260588,Non-lithifying cohesive
+Carbohydrates,Di- and oligosaccharides,Trehalose_Biosynthesis,1.82E-06,4.76E-05,0.670865033,0.231075294,0.02279442,Non-lithifying cohesive
+Carbohydrates,Monosaccharides,D-Galacturonate_and_D-Glucuronate_Utilization,7.82E-06,0.00014157,0.633369927,0.075727919,0.009745904,Non-lithifying cohesive
+Carbohydrates,Monosaccharides,D-ribose_utilization,3.66E-05,0.000410074,0.588730187,0.083150682,0.02270855,Non-lithifying cohesive
+Carbohydrates,Monosaccharides,L-fucose_utilization,2.82E-08,2.95E-06,0.757534471,0.005447084,0.003403044,Non-lithifying cohesive
+Carbohydrates,Monosaccharides,L-rhamnose_utilization,2.18E-05,0.000280393,0.604403562,0.041156418,0.012143185,Non-lithifying cohesive
+Carbohydrates,Organic acids,Glycerate_metabolism,3.38E-06,7.77E-05,0.655429103,0.010170777,0.001530008,Non-lithifying cohesive
+Carbohydrates,Polysaccharides,Glycogen_metabolism,4.38E-05,0.000452524,0.583201247,0.365257158,0.018511862,Non-lithifying cohesive
+Carbohydrates,Sugar alcohols,Inositol_catabolism,1.70E-06,4.58E-05,0.672461619,0.021647284,0.010299839,Non-lithifying cohesive
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Coenzyme F420,Coenzyme_F420_synthesis,2.10E-05,0.000274527,0.605432328,0.038474556,0.011403315,Non-lithifying cohesive
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Quinone cofactors,Menaquinone_Biosynthesis_via_Futalosine_--_gjo,4.23E-05,0.000447223,0.58426049,0.009059552,0.006380972,Non-lithifying cohesive
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Tetrapyrroles,Bilin_Biosynthesis,8.77E-06,0.000152783,0.630256472,0.009413245,0.002254854,Non-lithifying cohesive
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Tetrapyrroles,Chlorophyll_Biosynthesis,3.05E-05,0.00036284,0.594337889,0.492081519,0.01772194,Non-lithifying cohesive
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Tetrapyrroles,Chlorophyll_Degradation,4.19E-06,9.18E-05,0.649922212,0.002039713,0.000106803,Non-lithifying cohesive
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Tetrapyrroles,Coenzyme_B12_biosynthesis,3.94E-05,0.000430572,0.586500649,0.25147029,0.036517337,Non-lithifying cohesive
+Nitrogen Metabolism,Nitrate and nitrite ammonification,Nitrate_and_nitrite_ammonification,1.08E-07,8.43E-06,0.732600956,0.065016489,0.00531524,Non-lithifying cohesive
+Nitrogen Metabolism,Nitrogen fixation,Nitrogen_fixation,5.16E-05,0.000505834,0.578025024,0.074085691,0.016615423,Non-lithifying cohesive
+Photosynthesis,Electron transport and photophosphorylation,Photosystem_II,3.99E-07,1.98E-05,0.705640833,0.049976732,0.007789537,Non-lithifying cohesive
+Photosynthesis,Light-harvesting complexes,Phycobilisome,2.09E-08,2.46E-06,0.762718286,0.050177593,0.004372651,Non-lithifying cohesive
+Respiration,ATP synthases,V-Type_ATP_synthase,1.47E-06,4.46E-05,0.67600733,0.072205166,0.007870907,Non-lithifying cohesive
+Respiration,Biogenesis of c-type cytochromes,Biogenesis_of_c-type_cytochromes,5.40E-07,2.21E-05,0.699000207,0.168316324,0.009691044,Non-lithifying cohesive
+Respiration,Cytochrome B6-F complex,Cytochrome_B6-F_complex,5.86E-12,1.84E-09,0.868862581,0.017599882,0.003188092,Non-lithifying cohesive
+Respiration,Sodium Ion-Coupled Energetics,Na+_translocating_decarboxylases_and_related_biotin-dependent_enzymes,1.02E-05,0.000171979,0.625984445,0.010284041,0.002207334,Non-lithifying cohesive
+Respiration,Soluble cytochromes and functionally related electron carriers,Soluble_cytochromes_and_functionally_related_electron_carriers,5.02E-07,2.25E-05,0.700620942,0.459422817,0.055550688,Non-lithifying cohesive
+Sulfur Metabolism,Inorganic sulfur assimilation,Inorganic_Sulfur_Assimilation,1.36E-05,0.000212588,0.618091811,0.514562163,0.028405675,Non-lithifying cohesive
+Sulfur Metabolism,Organic sulfur assimilation,DMSP_breakdown,5.79E-05,0.000544848,0.574369313,0.007488915,0.001113738,Non-lithifying cohesive
+Sulfur Metabolism,Sulfate reduction-associated complexes,Sulfate_reduction-associated_complexes,1.32E-08,1.77E-06,0.770606293,0.004134998,0.003286056,Non-lithifying cohesive
+Carbohydrates,Central carbohydrate metabolism,Ethylmalonyl-CoA_pathway_of_C2_assimilation,9.87E-07,3.44E-05,0.685369817,0.05194336,0.018887927,Non-lithifying loosely cohesive
+Carbohydrates,CO2 fixation,"CO2_uptake,_carboxysome",6.42E-06,0.000125814,0.63871459,0.159860462,0.056574638,Non-lithifying loosely cohesive
+Carbohydrates,Di- and oligosaccharides,Beta-Glucoside_Metabolism,3.02E-07,1.78E-05,0.711565345,0.01243257,0.013366022,Non-lithifying loosely cohesive
+Carbohydrates,Di- and oligosaccharides,Fructooligosaccharides(FOS)_and_Raffinose_Utilization,2.38E-07,1.60E-05,0.716576332,0.039216654,0.011385618,Non-lithifying loosely cohesive
+Carbohydrates,Di- and oligosaccharides,Trehalose_Biosynthesis,1.82E-06,4.76E-05,0.670865033,0.183776729,0.023695315,Non-lithifying loosely cohesive
+Carbohydrates,Monosaccharides,D-Galacturonate_and_D-Glucuronate_Utilization,7.82E-06,0.00014157,0.633369927,0.07978704,0.014755175,Non-lithifying loosely cohesive
+Carbohydrates,Monosaccharides,D-ribose_utilization,3.66E-05,0.000410074,0.588730187,0.202990671,0.059314985,Non-lithifying loosely cohesive
+Carbohydrates,Monosaccharides,L-fucose_utilization,2.82E-08,2.95E-06,0.757534471,0.00100453,0.002246198,Non-lithifying loosely cohesive
+Carbohydrates,Monosaccharides,L-rhamnose_utilization,2.18E-05,0.000280393,0.604403562,0.046197003,0.022263408,Non-lithifying loosely cohesive
+Carbohydrates,Organic acids,Glycerate_metabolism,3.38E-06,7.77E-05,0.655429103,0.007747234,0.004753718,Non-lithifying loosely cohesive
+Carbohydrates,Polysaccharides,Glycogen_metabolism,4.38E-05,0.000452524,0.583201247,0.43290091,0.044831645,Non-lithifying loosely cohesive
+Carbohydrates,Sugar alcohols,Inositol_catabolism,1.70E-06,4.58E-05,0.672461619,0.053031377,0.011642391,Non-lithifying loosely cohesive
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Coenzyme F420,Coenzyme_F420_synthesis,2.10E-05,0.000274527,0.605432328,0.041911612,0.029415958,Non-lithifying loosely cohesive
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Quinone cofactors,Menaquinone_Biosynthesis_via_Futalosine_--_gjo,4.23E-05,0.000447223,0.58426049,0.003892542,0.005825196,Non-lithifying loosely cohesive
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Tetrapyrroles,Bilin_Biosynthesis,8.77E-06,0.000152783,0.630256472,0.013200466,0.006187264,Non-lithifying loosely cohesive
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Tetrapyrroles,Chlorophyll_Biosynthesis,3.05E-05,0.00036284,0.594337889,0.446662451,0.118821805,Non-lithifying loosely cohesive
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Tetrapyrroles,Chlorophyll_Degradation,4.19E-06,9.18E-05,0.649922212,0.006035561,0.002908851,Non-lithifying loosely cohesive
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Tetrapyrroles,Coenzyme_B12_biosynthesis,3.94E-05,0.000430572,0.586500649,0.490971326,0.095251314,Non-lithifying loosely cohesive
+Nitrogen Metabolism,Nitrate and nitrite ammonification,Nitrate_and_nitrite_ammonification,1.08E-07,8.43E-06,0.732600956,0.139281933,0.038459785,Non-lithifying loosely cohesive
+Nitrogen Metabolism,Nitrogen fixation,Nitrogen_fixation,5.16E-05,0.000505834,0.578025024,0.154432709,0.053095804,Non-lithifying loosely cohesive
+Photosynthesis,Electron transport and photophosphorylation,Photosystem_II,3.99E-07,1.98E-05,0.705640833,0.053435511,0.021260467,Non-lithifying loosely cohesive
+Photosynthesis,Light-harvesting complexes,Phycobilisome,2.09E-08,2.46E-06,0.762718286,0.071375782,0.017898935,Non-lithifying loosely cohesive
+Respiration,ATP synthases,V-Type_ATP_synthase,1.47E-06,4.46E-05,0.67600733,0.102446521,0.030639857,Non-lithifying loosely cohesive
+Respiration,Biogenesis of c-type cytochromes,Biogenesis_of_c-type_cytochromes,5.40E-07,2.21E-05,0.699000207,0.174548751,0.02853549,Non-lithifying loosely cohesive
+Respiration,Cytochrome B6-F complex,Cytochrome_B6-F_complex,5.86E-12,1.84E-09,0.868862581,0.036864587,0.004921217,Non-lithifying loosely cohesive
+Respiration,Sodium Ion-Coupled Energetics,Na+_translocating_decarboxylases_and_related_biotin-dependent_enzymes,1.02E-05,0.000171979,0.625984445,0.041676846,0.01804316,Non-lithifying loosely cohesive
+Respiration,Soluble cytochromes and functionally related electron carriers,Soluble_cytochromes_and_functionally_related_electron_carriers,5.02E-07,2.25E-05,0.700620942,0.621081462,0.098621393,Non-lithifying loosely cohesive
+Sulfur Metabolism,Inorganic sulfur assimilation,Inorganic_Sulfur_Assimilation,1.36E-05,0.000212588,0.618091811,0.301809138,0.056559542,Non-lithifying loosely cohesive
+Sulfur Metabolism,Organic sulfur assimilation,DMSP_breakdown,5.79E-05,0.000544848,0.574369313,0.002778209,0.002371607,Non-lithifying loosely cohesive
+Sulfur Metabolism,Sulfate reduction-associated complexes,Sulfate_reduction-associated_complexes,1.32E-08,1.77E-06,0.770606293,0.033847715,0.01110264,Non-lithifying loosely cohesive
